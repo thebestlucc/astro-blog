@@ -9,7 +9,13 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/preact": "^4.0.11",
     "@astrojs/rss": "^4.0.11",
-    "astro": "5.7.11"
+    "astro": "5.7.11",
+    "preact": "^10.26.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.27.1",
+    "@types/babel__core": "^7"
   }
 }
